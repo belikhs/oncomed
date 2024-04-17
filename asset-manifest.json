@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oncomed/static/css/main.fea2ae8b.css",
+    "main.js": "/oncomed/static/js/main.c748ba64.js",
+    "static/js/453.40988484.chunk.js": "/oncomed/static/js/453.40988484.chunk.js",
+    "index.html": "/oncomed/index.html",
+    "main.fea2ae8b.css.map": "/oncomed/static/css/main.fea2ae8b.css.map",
+    "main.c748ba64.js.map": "/oncomed/static/js/main.c748ba64.js.map",
+    "453.40988484.chunk.js.map": "/oncomed/static/js/453.40988484.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fea2ae8b.css",
+    "static/js/main.c748ba64.js"
+  ]
+}
