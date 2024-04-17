@@ -1,0 +1,35 @@
+.headerWrap {
+    padding: 10px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.back-button {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.language-switcher {
+    cursor: pointer;
+    display: inline;
+}
+
+.language-switcher span {
+    padding: 0 10px;
+    color: #fff;
+}
+
+.language-switcher span:hover {
+    text-decoration: underline;
+    color: #ccc;
+}
+
+.language-active {
+    font-weight: bold;
+    color: #ffd700;
+}
