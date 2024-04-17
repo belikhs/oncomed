@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://belikhs.github.io/oncomed/static/css/main.fea2ae8b.css",
-    "main.js": "https://belikhs.github.io/oncomed/static/js/main.6d8142fe.js",
-    "static/js/453.40988484.chunk.js": "https://belikhs.github.io/oncomed/static/js/453.40988484.chunk.js",
-    "index.html": "https://belikhs.github.io/oncomed/index.html",
-    "main.fea2ae8b.css.map": "https://belikhs.github.io/oncomed/static/css/main.fea2ae8b.css.map",
-    "main.6d8142fe.js.map": "https://belikhs.github.io/oncomed/static/js/main.6d8142fe.js.map",
-    "453.40988484.chunk.js.map": "https://belikhs.github.io/oncomed/static/js/453.40988484.chunk.js.map"
+    "main.css": "/oncomed/static/css/main.fea2ae8b.css",
+    "main.js": "/oncomed/static/js/main.e554040f.js",
+    "static/js/453.40988484.chunk.js": "/oncomed/static/js/453.40988484.chunk.js",
+    "index.html": "/oncomed/index.html",
+    "main.fea2ae8b.css.map": "/oncomed/static/css/main.fea2ae8b.css.map",
+    "main.e554040f.js.map": "/oncomed/static/js/main.e554040f.js.map",
+    "453.40988484.chunk.js.map": "/oncomed/static/js/453.40988484.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fea2ae8b.css",
-    "static/js/main.6d8142fe.js"
+    "static/js/main.e554040f.js"
   ]
 }
