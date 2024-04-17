@@ -13,6 +13,7 @@ import Detail from "pages/detail/Detail";
 function App() {
     return (
         <LanguageProvider>
+            {/* <BrowserRouter> */}
             <BrowserRouter basename="oncomed">
                 <QueryClientProvider client={queryClient}>
                     <div className="oncomedWrap">
